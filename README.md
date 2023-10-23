@@ -28,7 +28,7 @@ various algorithms.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Shortest-Path-Visualizer.git
+   git clone https://github.com/ParthShethSK/Shortest-Path-Visualizer.git
 
 ### Usage
 
